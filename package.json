@@ -1,0 +1,24 @@
+{
+  "name": "jsdump",
+  "version": "1.0.0",
+  "description": "Like JSON stringify but unquoting JS values and objects",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/puntorigen/jsdump.git"
+  },
+  "keywords": [
+    "jsdump",
+    "puntorigen",
+    "concepto"
+  ],
+  "author": "Pablo Schaffner",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/puntorigen/jsdump/issues"
+  },
+  "homepage": "https://github.com/puntorigen/jsdump#readme"
+}
